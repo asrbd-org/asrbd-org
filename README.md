@@ -39,7 +39,7 @@ Explore our repositories to find:
 - 🐱 GitHub: [github.com/asrbd-org](https://github.com/asrbd-org)  
 - 💼 LinkedIn: [linkedin.com/company/asrbd](https://linkedin.com/company/asrbd)  
 - 📺 YouTube: [youtube.com/@ASRBD_Official](https://youtube.com/@ASRBD_Official)  
-- ✉️ Email: `contact@asrbd.org`
+- Official Medium Blog: [Medium](https://medium.com/@asrbd)
 
 ---
 
