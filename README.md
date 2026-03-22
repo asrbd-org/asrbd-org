@@ -34,7 +34,7 @@ Explore our repositories to find:
 
 ## 🔗 Connect With Us
 
-- 🌍 Website: [https://asrbd.vercel.app](https://asrbd.vercel.app)  
+- 🌍 Website: [asrbd-org.github.io](https://asrbd-org.github.io/)
 - 📘 Facebook: [facebook.com/asrbd.org](https://facebook.com/asrbd.org)  
 - 🐱 GitHub: [github.com/asrbd-org](https://github.com/asrbd-org)  
 - 💼 LinkedIn: [linkedin.com/company/asrbd](https://linkedin.com/company/asrbd)  
